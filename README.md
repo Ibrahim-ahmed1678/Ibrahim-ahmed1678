@@ -24,7 +24,7 @@
       <td>
         <h3>👨‍💻 Full Stack Developer</h3>
         <p><strong>📍 Location:</strong> Los Angeles, California</p>
-        <p><strong>💻 Languages:</strong> C++ | Python | JacaScript</p>
+        <p><strong>💻 Languages:</strong> C++ | Python | JavaScript</p>
         <p><strong>🎯 Focus:</strong> Learning to use AI/ML Libraries</p>
         <p><strong>🎮 Hobbies:</strong> Working-out • Music • Running</p>
         <p><strong>😅 Fun Fact:</strong> I debug with console.log and I'm not ashamed</p>
