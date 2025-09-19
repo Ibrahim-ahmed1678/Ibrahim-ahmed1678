@@ -1,7 +1,7 @@
 # 👋 What's good, I'm Ibrahim Ahmed
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%93%9A;Building+cool+stuff+%F0%9F%9A%80;Coffee+enthusiast+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=UCLA+Electrical+Engineering+Student+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%93%9A;Building+cool+stuff+%F0%9F%9A%80;Coffee+enthusiast+%E2%98%95" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,17 +15,24 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const aboutMe = {
-    name: "Ibrahim Ahmed",
-    location: "Los Angeles, California",
-    languages: ["C++", "Python", "JavaScript"],
-    hobbies: ["Working Out", "Music", "Filmmaking"],
-    funFact: "I debug with console.log and I'm not ashamed 😅"
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
+      </td>
+      <td>
+        <h3>👨‍💻 Full Stack Developer</h3>
+        <p><strong>📍 Location:</strong> Los Angeles, California</p>
+        <p><strong>💻 Languages:</strong> C++ | Python | JacaScript</p>
+        <p><strong>🎯 Focus:</strong> Learning to use AI/ML Libraries</p>
+        <p><strong>🎮 Hobbies:</strong> Working-out • Music • Running</p>
+        <p><strong>😅 Fun Fact:</strong> I debug with console.log and I'm not ashamed</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🔭 Currently working on **[Your Current Project]**
 - 🌱 Learning **AI/ML**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **C++, Python, or anything tech**
@@ -39,7 +46,7 @@ const aboutMe = {
 <div align="center">
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=C++&logoColor=black)
+![C++](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=C++&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -101,20 +108,9 @@ const aboutMe = {
   <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-ahmed1678&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
----
-<!--
-## 📅 This Week I Spent My Time On
 
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 12 mins   ████████████▒░░░░░░░░░░░░   49.85% 
-Python       4 hrs 23 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.57% 
-TypeScript   2 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.62% 
-CSS          1 hr 38 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96% 
-```
-<!--END_SECTION:waka-->
 
----
+
 
 ## 🎮 When I'm Not Coding
 
