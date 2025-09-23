@@ -23,23 +23,23 @@
       </td>
       <td>
         <h3> Electrical Engineering Student</h3>
-        <p><strong>📍 Location:</strong> Los Angeles, California</p>
-        <p><strong>💻 Languages:</strong> C++ | Python | JavaScript</p>
-        <p><strong>🎯 Focus:</strong> Learning to use AI/ML Libraries</p>
-        <p><strong>🎮 Hobbies:</strong> Working-out • Music • Running</p>
-        <p><strong>😅 Fun Fact:</strong> I debug with console.log and I'm not ashamed</p>
+        <p><strong> Location:</strong> Los Angeles, California</p>
+        <p><strong> Languages:</strong> C++ | Python | JavaScript</p>
+        <p><strong> Focus:</strong> Learning to use AI/ML Libraries</p>
+        <p><strong> Hobbies:</strong> Working-out • Music • Running</p>
+        <p><strong> Fun Fact:</strong> I debug with console.log and I'm not ashamed</p>
       </td>
     </tr>
   </table>
 </div>
 
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **C++, Python, or anything tech**
-- 📫 Reach me at **ibrahimibbi77@gmail.com**
+-  Looking to collaborate on **open source projects**
+-  Ask me about **C++, Python, or anything tech**
+-  Reach me at **ibrahimibbi77@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-ahmed1678&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -66,12 +66,13 @@
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=project1&theme=radical)](https://github.com/Ibrahim-ahmed1678/hand-gesture-recognition)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=project2&theme=radical)](https://github.com/Ibrahim-ahmed1678/Newtonian-Two-Body-Problem-Simulation)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=hand-gesture-recognition&theme=radical)](https://github.com/Ibrahim-ahmed1678/hand-gesture-recognition)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=Newtonian-Two-Body-Problem-Simulation&theme=radical)](https://github.com/Ibrahim-ahmed1678/Newtonian-Two-Body-Problem-Simulation)
+
 
 </div>
 <!--
@@ -83,7 +84,7 @@
 <!--
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-ahmed1678&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
@@ -92,7 +93,7 @@
 ---
 
 
-## 💭 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -100,7 +101,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ibrahim-ahmed1678&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
