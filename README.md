@@ -1,7 +1,7 @@
 # What's good, I'm Ibrahim Ahmed
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=UCLA+Electrical+Engineering+Student+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%93%9A;Building+cool+stuff+%F0%9F%9A%80;Coffee+enthusiast+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=UCLA+Electrical+Engineering+Student;Learning+AI/ML;Building+innovative+projects;Student+Researcher" alt="Typing SVG" />
 </div>
 
 <div align="center">
