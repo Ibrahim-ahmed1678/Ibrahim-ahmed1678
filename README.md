@@ -33,11 +33,9 @@
   </table>
 </div>
 
-- 🌱 Learning **AI/ML**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **C++, Python, or anything tech**
 - 📫 Reach me at **ibrahimibbi77@gmail.com**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 
 ---
 
@@ -58,12 +56,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahim-ahmed1678&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-ahmed1678&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-ahmed1678&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-ahmed1678&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-ahmed1678&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-ahmed1678&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -72,8 +70,8 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=ibrahim-ahmed1678&repo=project1&theme=radical)](https://github.com/Ibrahim-ahmed1678/hand-gesture-recognition)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=ibrahim-ahmed1678&repo=project2&theme=radical)](https://github.com/Ibrahim-ahmed1678/Newtonian-Two-Body-Problem-Simulation)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=project1&theme=radical)](https://github.com/Ibrahim-ahmed1678/hand-gesture-recognition)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=project2&theme=radical)](https://github.com/Ibrahim-ahmed1678/Newtonian-Two-Body-Problem-Simulation)
 
 </div>
 <!--
@@ -88,7 +86,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-ahmed1678&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ibrahim-ahmed1678&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -105,37 +103,18 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-ahmed1678&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ibrahim-ahmed1678&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
-
-
-
-
-## 🎮 When I'm Not Coding
-
-- 🎵 **Music**: Always got my headphones on - hip hop, lo-fi, electronic
-- ☕ **Coffee**: Trying different roasts and brewing methods
-
 ---
 
-## 💡 Random Facts About Me
-
-- 🧩 I love solving puzzles and brain teasers
-- 🌙 I'm most productive during late night hours
-- 🍕 Pineapple on pizza? Absolutely yes!
-- 📚 Currently reading: "Dune"
-- 🎯 2025 Goal: Contribute to more open source projects
-
----
-
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   
-  **Always down to chat about tech, collaborate on projects, or just vibe! 🤙**
+  **Always down to chat about tech and collaborate on projects**
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=ibrahim-ahmed1678&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Ibrahim-ahmed1678&color=blueviolet&style=flat-square)
   
 </div>
 
