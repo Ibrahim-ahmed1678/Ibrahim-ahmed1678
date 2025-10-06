@@ -70,7 +70,7 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=hand-gesture-recognition&theme=radical)](https://github.com/Ibrahim-ahmed1678/hand-gesture-recognition)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=Hand-gesture-recognition&theme=radical)](https://github.com/Ibrahim-ahmed1678/hand-gesture-recognition)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=Newtonian-Two-Body-Problem-Simulation&theme=radical)](https://github.com/Ibrahim-ahmed1678/Newtonian-Two-Body-Problem-Simulation)
 
 
