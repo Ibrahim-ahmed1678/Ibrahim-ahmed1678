@@ -56,14 +56,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-ahmed1678&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-ahmed1678&layout=compact&langs_count=8&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-ahmed1678&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-ahmed1678&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim-ahmed1678&theme=radical" alt="GitHub Streak" />
 </p>
-
 ---
 
 ## Featured Projects
