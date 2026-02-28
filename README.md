@@ -67,13 +67,25 @@
 ---
 
 ## Featured Projects
+
 <p align="center">
+
   <a href="https://github.com/Ibrahim-ahmed1678/EdgeAI-Hackathon-Gesture-Controlled-Drone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=EdgeAI-Hackathon-Gesture-Controlled-Drone&theme=radical" />
+    <img src="https://img.shields.io/badge/🤖_Gesture_Controlled_Drone-EdgeAI_Hackathon-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <br><br>
+  <a href="https://github.com/Ibrahim-ahmed1678/Line-Following-Autonomous-Car">
+    <img src="https://img.shields.io/badge/🚗_Line_Following_Autonomous_Car-Intro_to_EE-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br><br>
   <a href="https://github.com/Ibrahim-ahmed1678/Newtonian-Two-Body-Problem-Simulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=Newtonian-Two-Body-Problem-Simulation&theme=radical" />
+    <img src="https://img.shields.io/badge/🪐_Newtonian_Two_Body_Simulation-Personal_Project-A855F7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <br><br>
+  <a href="https://github.com/tumondal/donkey-racer">
+    <img src="https://img.shields.io/badge/🏎️_IEEE_Donkey_Racer-IEEE_Project-F59E0B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
 </p>
 ---
 
