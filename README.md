@@ -67,16 +67,14 @@
 ---
 
 ## Featured Projects
-
 <p align="center">
-  <a href="https://github.com/Ibrahim-ahmed1678/hand-gesture-recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=hand-gesture-recognition&theme=radical" />
+  <a href="https://github.com/Ibrahim-ahmed1678/EdgeAI-Hackathon-Gesture-Controlled-Drone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=EdgeAI-Hackathon-Gesture-Controlled-Drone&theme=radical" />
   </a>
   <a href="https://github.com/Ibrahim-ahmed1678/Newtonian-Two-Body-Problem-Simulation">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ibrahim-ahmed1678&repo=Newtonian-Two-Body-Problem-Simulation&theme=radical" />
   </a>
 </p>
-
 ---
 
 ## Contribution Graph
